@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:Goldenrod ;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+.fon{
+    background-color: aquamarine;
+    border:1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+.gold{
+  background-color: rgba(180, 17, 6, 0.699);
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 7px;
+}
+.istoria{
+    background-color:greenyellow ;
+    border: 1px solid red;
+    border-radius: 10px;
+    padding: 7px;
+}
+.podval{
+    background-color: rgb(121, 162, 238);
+    border: 3px solid red;
+    border-radius: 10px;
+    padding: 7px;
+    color: white
+}
